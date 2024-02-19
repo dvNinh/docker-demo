@@ -1,3 +1,5 @@
+Đinh Văn Ninh - 21020362
+
 ### **Docker**
 - Docker là một nền tảng mã nguồn mở giúp tự động triển khai các ứng dụng Linux và Windows vào trong các container ảo.
 - Docker cho người sử dụng những công cụ để có thể đóng gói, vận chuyển và chạy container một cách đơn giản và dễ dàng trên các nền tảng khác nhau.
